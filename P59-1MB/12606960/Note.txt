@@ -1,1 +1,1 @@
-Similar to 603, recommend to just switch to 603 or a different supported OS.
+Similar to 603, recommend to just switch to 603 or a different supported OS. I have not been able to test this XDF.
